@@ -55,16 +55,16 @@ A financial analytics dashboard for businesses to track revenue, expenses, cashf
 ### 2️⃣ **End-to-End Retail ETL Pipeline (Informatica + SQL + Power BI)**  
 A complete enterprise-style data pipeline with sales, products, and customer data.  
 - Data extraction from CSV/Excel  
-- Transformations using Informatica  
+- Transformations using Informatica simulation in Python 
 - SQL-driven data marts  
 - Interactive Power BI dashboard  
 
-🔗 *Coming soon*
+🔗 *Going to Live Soon*
 
 ---
 
 ### 3️⃣ **Customer Segmentation & Churn Analysis**  
-- SQL + Python based EDA  
+- SQL + Python-based EDA  
 - Machine learning segmentation  
 - Insights improved retention by 15%
 
