@@ -48,7 +48,7 @@ A financial analytics dashboard for businesses to track revenue, expenses, cashf
 - SQL transformations for trend analysis  
 - Power BI dashboard for visualization  
 
-🔗 *Coming soon*
+🔗 *Is in Public Domain*
 
 ---
 
@@ -59,7 +59,7 @@ A complete enterprise-style data pipeline with sales, products, and customer dat
 - SQL-driven data marts  
 - Interactive Power BI dashboard  
 
-🔗 *Going to Live Soon*
+🔗 *Is in Public Domain*
 
 ---
 
