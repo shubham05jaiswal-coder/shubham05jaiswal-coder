@@ -68,7 +68,7 @@ A complete enterprise-style data pipeline with sales, products, and customer dat
 - Machine learning segmentation  
 - Insights improved retention by 15%
 
-🔗 *Coming soon*
+🔗 *Is in Public Domain*
 
 ---
 
