@@ -13,6 +13,7 @@ I build practical data solutions—from reliable ETL pipelines and analytics-rea
 
 | Project | What it demonstrates |
 |---|---|
+| [Modern Data Warehouse — Airflow + dbt](https://github.com/shubham05jaiswal-coder/modern-data-warehouse-airflow-dbt) | Python CSV ingestion and validation, PostgreSQL, Airflow orchestration, dbt staging and marts, Docker, pytest, and data-quality tests |
 | [Automated Financial Health Dashboard](https://github.com/shubham05jaiswal-coder/Automated-Financial-Health-Dashboard) | Python ETL, PostgreSQL, data validation, reporting views, and Power BI measures |
 | [Customer Segmentation & Churn Analysis](https://github.com/shubham05jaiswal-coder/Customer-Segmentation-Churn-Analysis) | RFM features, K-Means segmentation, churn-risk baseline, SQL, and Power BI |
 | [Bank Loan Case Study](https://github.com/shubham05jaiswal-coder/BankLoanCaseStudy) | Exploratory analysis, missing-value handling, outlier review, and lending-risk questions |
