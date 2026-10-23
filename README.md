@@ -1,81 +1,35 @@
-# 👋 Hi, I'm Shubham Jaiswal  
+# Hi, I'm Shubham Jaiswal 👋
 
-### ETL Developer | Data Engineer | SQL Developer | Power BI | Informatica PowerCenter  
-📍 India | Open to Remote Roles  
+**Data Engineer | ETL Developer | SQL & BI | Python**
 
----
+I build practical data solutions—from reliable ETL pipelines and analytics-ready data models to dashboards that help teams understand business performance.
 
-## 🚀 About Me  
-I am a Data Engineer & ETL Developer with 3+ years of experience building large-scale data pipelines using **Informatica PowerCenter, SQL, Python, and Power BI**.  
-My core expertise lies in:
+- 🔭 **Focus:** Data engineering, ETL development, data quality, SQL optimization, and analytics
+- 🧰 **Tools:** Python, SQL, PostgreSQL, Informatica PowerCenter, Power BI, DAX, Pandas, Git
+- 📚 **Portfolio:** End-to-end data pipelines, customer analytics, finance dashboards, and exploratory analysis
+- 📍 India · Open to relevant Data Engineer, ETL Developer, and SQL Developer opportunities
 
-- Designing scalable ETL workflows  
-- Implementing SCD Type 1 & 2  
-- Building data models and pipelines  
-- Performance tuning (ETL + SQL)  
-- Automation using Python  
-- Creating BI dashboards that drive decisions  
+## Featured projects
 
-I enjoy solving business problems using data, automation, and clean architecture.
+| Project | What it demonstrates |
+|---|---|
+| [Automated Financial Health Dashboard](https://github.com/shubham05jaiswal-coder/Automated-Financial-Health-Dashboard) | Python ETL, PostgreSQL, data validation, reporting views, and Power BI measures |
+| [Customer Segmentation & Churn Analysis](https://github.com/shubham05jaiswal-coder/Customer-Segmentation-Churn-Analysis) | RFM features, K-Means segmentation, churn-risk baseline, SQL, and Power BI |
+| [Retail Data Engineering Pipeline](https://github.com/shubham05jaiswal-coder/Retail-Data-Engineering-Pipeline-ETL-SQL-Python-Power-BI-) | Modular ETL concepts, star-schema modeling, quality checks, and reporting |
+| [Bank Loan Case Study](https://github.com/shubham05jaiswal-coder/BankLoanCaseStudy) | Exploratory analysis, missing-value handling, outlier review, and lending-risk questions |
+| [IMDb Movie Analysis](https://github.com/shubham05jaiswal-coder/IMDB_MOVIE_Analysis) | Exploratory analysis of ratings, genres, duration, language, directors, and budgets |
 
----
+## Tech stack
 
-## 🔧 Tech Stack
+**Data engineering:** ETL/ELT · Data Warehousing · Dimensional Modeling · Data Quality · SCD concepts  
+**Languages:** SQL · Python  
+**Platforms & tools:** PostgreSQL · Oracle · MySQL · Informatica PowerCenter · Power BI · DAX · Pandas · Git
 
-**Data Engineering:**  
-Informatica PowerCenter • SQL • ETL • Data Warehousing • Data Modeling • SCD1/2
+## Let's connect
 
-**Programming:**  
-Python • Shell Scripting • Pandas  
-
-**Databases:**  
-Oracle • MySQL • PostgreSQL  
-
-**Analytics & BI:**  
-Power BI • DAX • Power Query  
-
-**Other Tools:**  
-Git • Jupyter Notebook • VS Code  
+- [LinkedIn](https://www.linkedin.com/in/shubham-jaiswal-6357a8204)
+- Email: [shubham05.jaiswal@gmail.com](mailto:shubham05.jaiswal@gmail.com)
 
 ---
 
-## 📊 Featured Projects
-
-### 1️⃣ **Automated Financial Health Dashboard**  
-**Tech:** SQL, Power BI, Python  
-A financial analytics dashboard for businesses to track revenue, expenses, cashflow, and profitability.  
-- Automated ETL using Python  
-- SQL transformations for trend analysis  
-- Power BI dashboard for visualization  
-
-🔗 *Is in Public Domain*
-
----
-
-### 2️⃣ **End-to-End Retail ETL Pipeline (Informatica + SQL + Power BI)**  
-A complete enterprise-style data pipeline with sales, products, and customer data.  
-- Data extraction from CSV/Excel  
-- Transformations using Informatica simulation in Python 
-- SQL-driven data marts  
-- Interactive Power BI dashboard  
-
-🔗 *Is in Public Domain*
-
----
-
-### 3️⃣ **Customer Segmentation & Churn Analysis**  
-- SQL + Python-based EDA  
-- Machine learning segmentation  
-- Insights improved retention by 15%
-
-🔗 *Is in Public Domain*
-
----
-
-## 📬 Connect With Me  
-- **LinkedIn:** www.linkedin.com/in/shubham-jaiswal-6357a8204  
-- **Email:** shubham05.jaiswal@gmail.com  
-
----
-
-⭐ **Open to ETL Developer, Data Engineer, SQL Developer roles**  
+*I aim to make projects reproducible and interview-ready with clear architecture, sample data, setup steps, and honest reporting of results.*
