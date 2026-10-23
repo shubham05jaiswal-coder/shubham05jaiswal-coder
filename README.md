@@ -15,7 +15,6 @@ I build practical data solutions—from reliable ETL pipelines and analytics-rea
 |---|---|
 | [Automated Financial Health Dashboard](https://github.com/shubham05jaiswal-coder/Automated-Financial-Health-Dashboard) | Python ETL, PostgreSQL, data validation, reporting views, and Power BI measures |
 | [Customer Segmentation & Churn Analysis](https://github.com/shubham05jaiswal-coder/Customer-Segmentation-Churn-Analysis) | RFM features, K-Means segmentation, churn-risk baseline, SQL, and Power BI |
-| [Retail Data Engineering Pipeline](https://github.com/shubham05jaiswal-coder/Retail-Data-Engineering-Pipeline-ETL-SQL-Python-Power-BI-) | Modular ETL concepts, star-schema modeling, quality checks, and reporting |
 | [Bank Loan Case Study](https://github.com/shubham05jaiswal-coder/BankLoanCaseStudy) | Exploratory analysis, missing-value handling, outlier review, and lending-risk questions |
 | [IMDb Movie Analysis](https://github.com/shubham05jaiswal-coder/IMDB_MOVIE_Analysis) | Exploratory analysis of ratings, genres, duration, language, directors, and budgets |
 
